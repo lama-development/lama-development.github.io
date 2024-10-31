@@ -325,7 +325,7 @@ header {
     }
 
     .landing-container {
-        padding-top: 30%;
+        padding-top: 40%;
     }
 
     .landing-title {
@@ -333,7 +333,7 @@ header {
     }
 
     .landing-subtitle {
-        font-size: 1rem;
+        font-size: .9rem;
     }
 
     .hamburger-container {
